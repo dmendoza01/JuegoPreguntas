@@ -1,1 +1,1 @@
-# JuegoPreguntas
+# Juego de Preguntas
